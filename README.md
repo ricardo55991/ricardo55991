@@ -28,3 +28,7 @@ Entusiasta das tecnologias mais recentes para machine learning e desenvolvimento
   <div style="display: inline_block"><br> 
   <a href="mailto:ricardo.barros.jr@gmail.com" target="_blank"><img height="30cm"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  <div style="display: inline_block"><br> 
+  <a href="https://www.linkedin.com/in/ricardo-alexandre-717310220/" target="_blank"><img height="30cm"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+  </div>
+  
