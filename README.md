@@ -3,8 +3,9 @@
 Entusiasta das tecnologias mais recentes para machine learning e desenvolvimento web.
 
 - Meu nome é Ricardo Alexandre 
-- Tenho 22 anos
+- Tenho 23 anos
 - Estudante de Sistemas de Informações, comecei no 1º semestre de 2020 e atualmente estou cursando o 4º semestre
+- Desenvolvedor Jr, atualmente atuando com .Net ,VueJs e Oracle SQL
 - Brasil, RN - São José de Mipibu
 
 #
